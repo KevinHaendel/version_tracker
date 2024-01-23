@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.15
-  package_info_plus: ^4.2.0
+  package_info_plus: ^5.0.1
 
 dev_dependencies:
   flutter_test:
